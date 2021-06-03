@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("Hello World")
         print("This is new branch")
         print("This is my app")
+        print("This is my test")
         // Do any additional setup after loading the view.
     }
 
